@@ -1,5 +1,5 @@
 # html-tailwind-template
 
 ```
-npx tailwindcss -i ./src/styles.css -o ./dist/output.css --watch
+npx tailwindcss -i ./styles.css -o ./output.css --watch
 ```
